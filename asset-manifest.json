@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ankets-eCommerce/static/css/main.60931552.chunk.css",
+    "main.js": "/ankets-eCommerce/static/js/main.64b7182f.chunk.js",
+    "main.js.map": "/ankets-eCommerce/static/js/main.64b7182f.chunk.js.map",
+    "runtime-main.js": "/ankets-eCommerce/static/js/runtime-main.ef47f23e.js",
+    "runtime-main.js.map": "/ankets-eCommerce/static/js/runtime-main.ef47f23e.js.map",
+    "static/js/2.77a16f4b.chunk.js": "/ankets-eCommerce/static/js/2.77a16f4b.chunk.js",
+    "static/js/2.77a16f4b.chunk.js.map": "/ankets-eCommerce/static/js/2.77a16f4b.chunk.js.map",
+    "index.html": "/ankets-eCommerce/index.html",
+    "precache-manifest.6048729634621bfe7c7c3de6a30232d9.js": "/ankets-eCommerce/precache-manifest.6048729634621bfe7c7c3de6a30232d9.js",
+    "service-worker.js": "/ankets-eCommerce/service-worker.js",
+    "static/css/main.60931552.chunk.css.map": "/ankets-eCommerce/static/css/main.60931552.chunk.css.map",
+    "static/js/2.77a16f4b.chunk.js.LICENSE.txt": "/ankets-eCommerce/static/js/2.77a16f4b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef47f23e.js",
+    "static/js/2.77a16f4b.chunk.js",
+    "static/css/main.60931552.chunk.css",
+    "static/js/main.64b7182f.chunk.js"
+  ]
+}
