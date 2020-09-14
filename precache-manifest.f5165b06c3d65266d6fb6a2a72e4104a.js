@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "df8a00c9c37cd934b2efd53942a42c0b",
+    "revision": "f9482bf08d594a9ba27ff14e6a67e945",
     "url": "/ankets-eCommerce/index.html"
   },
   {
-    "revision": "03215cc4ce7e7115e772",
+    "revision": "aa131a3f4f3e1b505b1e",
     "url": "/ankets-eCommerce/static/css/main.60931552.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ankets-eCommerce/static/js/2.77a16f4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "03215cc4ce7e7115e772",
-    "url": "/ankets-eCommerce/static/js/main.ffc1432e.chunk.js"
+    "revision": "aa131a3f4f3e1b505b1e",
+    "url": "/ankets-eCommerce/static/js/main.f2c66f0d.chunk.js"
   },
   {
     "revision": "479bcfea43955d911e47",
