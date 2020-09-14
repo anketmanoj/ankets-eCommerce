@@ -2,7 +2,7 @@
   "products": [
     {
       "_id": "dress1",
-      "image": "https://github.com/anketmanoj/ankets-eCommerce/blob/master/public/images/dress1.jpg",
+      "image": "https://images.asos-media.com/products/asos-design-midi-sundress-with-shirring-detail-in-ditsy-floral-print/20049737-1-floral?$XXL$&wid=513&fit=constrain",
       "title": "Midi sundress with shirring detail",
       "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
       "availableSizes": ["X", "L", "XL", "XXL"],
