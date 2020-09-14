@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ankets-eCommerce/precache-manifest.bc908985d0325583a83308f1a1bc87a5.js"
+  "/ankets-eCommerce/precache-manifest.27c899f68a00fe25cae6e532ad4c686d.js"
 );
 
 self.addEventListener('message', (event) => {
